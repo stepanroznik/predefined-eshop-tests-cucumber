@@ -32,4 +32,3 @@ Feature: Store Shopping
 
         And the product "labore excepteur" should contain "Buy"
         And the product "sint elit" should contain "Buy"
-
